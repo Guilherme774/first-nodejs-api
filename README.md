@@ -29,7 +29,7 @@
 
 ## How to run the API:
 
-1. Get this repository
+1. Clone this repository
 2. Install all the dependecies with "npm install"
 3. Create a MongoDB cluster
 4. Connect to the API
